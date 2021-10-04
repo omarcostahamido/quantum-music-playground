@@ -8,7 +8,7 @@ Playground for composing music using quantum states. Implemented as a Max for Li
 Here is a [Quantum Music Playground presentation video](https://youtu.be/E3CMhdUY1hE) given at IBM Quantum Educators Summit on 4-Aug-2021.
 
 Here is a short [video of expressing a portion of Canon in D](https://youtu.be/Vpp364Sgivk) with Quantum Music Playground.
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vpp364Sgivk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 > Please note that it is ***not*** necessary to have prior knowledge of quantum computing in order to use Quantum Music Playground. We'll sneak in what you need to know as we go along, and will reference helpful (but not essential to internalize) resources.
