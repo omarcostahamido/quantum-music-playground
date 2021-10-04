@@ -2,6 +2,7 @@
 ## Summary
 
 Note: open this readme as the webpage version to see the videos: https://omarcostahamido.github.io/quantum-music-playground/
+
 Playground for composing music using quantum states. Implemented as a Max for Live device in Ableton Live 11, and includes a MicroQiskit quantum simulator. Free, open source, Apache 2.0 licensed. Developed by James L. Weaver, [@JavaFXpert on Twitter](https://twitter.com/JavaFXpert). 
 
 ![Quantum Music Playground screenshot](./images/v095/qmp_0_95_screenshot.png)
